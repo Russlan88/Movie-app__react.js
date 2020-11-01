@@ -1,10 +1,8 @@
-Reactive movie App project:
+React movie app project:
+- React.js
+- React router
+- Hooks
+- Styled components
 
-technology used such as :
+take a look https://reactivemoviearena.netlify.app/
 
-    - React.js
-    - Router
-    - Hooks
-    - Styled components
-
-    take a look https://reactivemoviearena.netlify.app/
