@@ -1,4 +1,7 @@
+<!-- @format -->
+
 React movie app project:
+
 - React.js
 - React router
 - Hooks
@@ -6,3 +9,4 @@ React movie app project:
 
 take a look https://reactivemoviearena.netlify.app/
 
+<img src='./src/Preview.png'>
